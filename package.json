@@ -4,6 +4,7 @@
   "description": "",
   "main": "board.js",
   "dependencies": {
+    "prompt": "^1.0.0",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {
